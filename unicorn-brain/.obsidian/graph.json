@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"The Unicorn Model/Unicorn\"",
+      "color": {
+        "a": 1,
+        "rgb": 10910176
+      }
+    },
+    {
+      "query": "path:\"The Unicorn Model/Liquidity\"",
+      "color": {
+        "a": 1,
+        "rgb": 5620169
+      }
+    },
+    {
+      "query": "path:\"The Unicorn Model/HTF Context\"",
+      "color": {
+        "a": 1,
+        "rgb": 14718287
+      }
+    },
+    {
+      "query": "path:\"The Unicorn Model/SMT\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701914
+      }
+    },
+    {
+      "query": "path:\"The Unicorn Model/Model Variables\"",
+      "color": {
+        "a": 1,
+        "rgb": 7327599
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7132754626224244,
+  "close": false
+}

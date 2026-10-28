@@ -1,0 +1,5 @@
+# Fractal Setups
+
+⬆ [[Unicorn]]
+
+## Notes

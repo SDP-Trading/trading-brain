@@ -1,0 +1,1311 @@
+{
+	"nodes": [
+		{
+			"id": "1ed9bfef2dca4c9c",
+			"type": "text",
+			"text": "[[The Unicorn Model|## The Unicorn Model]]",
+			"x": -140,
+			"y": -40,
+			"width": 280,
+			"height": 80
+		},
+		{
+			"id": "57feae97dfca468f",
+			"type": "text",
+			"text": "[[Unicorn|## Unicorn]]",
+			"x": -120,
+			"y": -455,
+			"width": 240,
+			"height": 70,
+			"color": "6"
+		},
+		{
+			"id": "d309b9d1b35546c4",
+			"type": "text",
+			"text": "[[What is the Unicorn Pattern]]",
+			"x": -3485,
+			"y": -680,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "b7e7a39640234c5f",
+			"type": "text",
+			"text": "[[Stop Hunt]]",
+			"x": -3235,
+			"y": -680,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "5da6e80f0c314498",
+			"type": "text",
+			"text": "[[What is a Breaker Block]]",
+			"x": -2860,
+			"y": -680,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "8c96bc09a5d64a96",
+			"type": "text",
+			"text": "[[Bullish Breaker Block]]",
+			"x": -2985,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "ff33c772ff3d4f82",
+			"type": "text",
+			"text": "[[Bearish Breaker Block]]",
+			"x": -2735,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "17d4bd73c56c4a0f",
+			"type": "text",
+			"text": "[[How to Qualify Good Breakers]]",
+			"x": -2485,
+			"y": -680,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "9b5c73d8b86a48ef",
+			"type": "text",
+			"text": "[[Displacement]]",
+			"x": -2485,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "b4ef5f80f5d74a1e",
+			"type": "text",
+			"text": "[[Fair Value Gaps]]",
+			"x": -1110,
+			"y": -680,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "0dd212239a464ae6",
+			"type": "text",
+			"text": "[[Bullish Fair Value Gap]]",
+			"x": -2235,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "f9bda545d5214c6e",
+			"type": "text",
+			"text": "[[Bearish Fair Value Gap]]",
+			"x": -1985,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "0bb8471926564ebf",
+			"type": "text",
+			"text": "[[Breaker Block and FVG Aligned]]",
+			"x": -1735,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "a0345ac2a1874054",
+			"type": "text",
+			"text": "[[SIBI and BISI]]",
+			"x": -1485,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "90b4f1e2f45c454f",
+			"type": "text",
+			"text": "[[Other Types of Gaps]]",
+			"x": -1235,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "b5ddc93cb4fb4a3b",
+			"type": "text",
+			"text": "[[Fair Value Gap Anatomy]]",
+			"x": -985,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "8203f1ee49154080",
+			"type": "text",
+			"text": "[[FVG Entry Methods]]",
+			"x": -735,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "6b2a03fae35d4cd5",
+			"type": "text",
+			"text": "[[FVG Stop Loss Methods]]",
+			"x": -485,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "bd3819172bc34ad1",
+			"type": "text",
+			"text": "[[Which FVG to Choose]]",
+			"x": -235,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "604416399d43421c",
+			"type": "text",
+			"text": "[[Fair Value Gap Inversion]]",
+			"x": 15,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "419464f454e34dc8",
+			"type": "text",
+			"text": "[[Best Unicorn vs Worst Unicorn]]",
+			"x": 265,
+			"y": -680,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "e6c8f79f0ac5497b",
+			"type": "text",
+			"text": "[[Where to Enter]]",
+			"x": 515,
+			"y": -680,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "0695defa0b414d74",
+			"type": "text",
+			"text": "[[FVG Touch vs Breaker Touch Entry]]",
+			"x": 515,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "d0e2bedc84da493f",
+			"type": "text",
+			"text": "[[Stop Loss Placement]]",
+			"x": 765,
+			"y": -680,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "5801ced1a13e4028",
+			"type": "text",
+			"text": "[[Take Profit]]",
+			"x": 1015,
+			"y": -680,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "be168f5c185e4f21",
+			"type": "text",
+			"text": "[[Fractal Setups]]",
+			"x": 1265,
+			"y": -680,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "6fe2719122004fd3",
+			"type": "text",
+			"text": "[[Trade Examples]]",
+			"x": 2390,
+			"y": -680,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "b8b3429ec04a4acf",
+			"type": "text",
+			"text": "[[Example 1 - Jul 1 2024 NQ]]",
+			"x": 1515,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "9b1819c4fda8485d",
+			"type": "text",
+			"text": "[[Example 2 - Jul 12 2024 NQ]]",
+			"x": 1765,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "536432e6de1543da",
+			"type": "text",
+			"text": "[[Example 3 - Jul 30 2024 NQ]]",
+			"x": 2015,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "9c3216e51d604ce9",
+			"type": "text",
+			"text": "[[Example 4 - Jul 25 2024 ES]]",
+			"x": 2265,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "5144bb3ae05d4e54",
+			"type": "text",
+			"text": "[[Example 5 - Jan 9 2024 ES]]",
+			"x": 2515,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "ab4b40b8bc3244db",
+			"type": "text",
+			"text": "[[Example 6 - Jan 16 2024 NQ]]",
+			"x": 2765,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "5a9112cb7616412f",
+			"type": "text",
+			"text": "[[Example 7 - Jan 30 2024 NQ]]",
+			"x": 3015,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "f56ac77590e14358",
+			"type": "text",
+			"text": "[[Example 8 - Jan 17 2024 CL]]",
+			"x": 3265,
+			"y": -910,
+			"width": 220,
+			"height": 60,
+			"color": "6"
+		},
+		{
+			"id": "972992df9d5b4af7",
+			"type": "text",
+			"text": "[[Liquidity|## Liquidity]]",
+			"x": 500,
+			"y": -70,
+			"width": 240,
+			"height": 70,
+			"color": "5"
+		},
+		{
+			"id": "d4a0bc00b2cf40db",
+			"type": "text",
+			"text": "[[What is Liquidity]]",
+			"x": 740,
+			"y": -515,
+			"width": 220,
+			"height": 60,
+			"color": "5"
+		},
+		{
+			"id": "5ec65188d31c4248",
+			"type": "text",
+			"text": "[[Liquidity Mapping]]",
+			"x": 740,
+			"y": -415,
+			"width": 220,
+			"height": 60,
+			"color": "5"
+		},
+		{
+			"id": "2761c5bcb3b14e4d",
+			"type": "text",
+			"text": "[[Timeframe Pairing Cheat Sheet]]",
+			"x": 970,
+			"y": -415,
+			"width": 220,
+			"height": 60,
+			"color": "5"
+		},
+		{
+			"id": "ab74a7dde11a41f0",
+			"type": "text",
+			"text": "[[Swing High-Low Liquidity]]",
+			"x": 740,
+			"y": -265,
+			"width": 220,
+			"height": 60,
+			"color": "5"
+		},
+		{
+			"id": "9bf584dbe57641f9",
+			"type": "text",
+			"text": "[[Swing High Liquidity]]",
+			"x": 970,
+			"y": -315,
+			"width": 220,
+			"height": 60,
+			"color": "5"
+		},
+		{
+			"id": "73e4a1395b9c40cb",
+			"type": "text",
+			"text": "[[Swing Low Liquidity]]",
+			"x": 970,
+			"y": -215,
+			"width": 220,
+			"height": 60,
+			"color": "5"
+		},
+		{
+			"id": "80fb0dfcf00d4019",
+			"type": "text",
+			"text": "[[OHLC Liquidity]]",
+			"x": 740,
+			"y": -65,
+			"width": 220,
+			"height": 60,
+			"color": "5"
+		},
+		{
+			"id": "3a26dcb1aa4c45f3",
+			"type": "text",
+			"text": "[[OHLC Sweep]]",
+			"x": 970,
+			"y": -115,
+			"width": 220,
+			"height": 60,
+			"color": "5"
+		},
+		{
+			"id": "651766f4fa9f4e7d",
+			"type": "text",
+			"text": "[[OLHC Sweep]]",
+			"x": 970,
+			"y": -15,
+			"width": 220,
+			"height": 60,
+			"color": "5"
+		},
+		{
+			"id": "93b4d77c52c64b91",
+			"type": "text",
+			"text": "[[Reversal or Continuation]]",
+			"x": 740,
+			"y": 85,
+			"width": 220,
+			"height": 60,
+			"color": "5"
+		},
+		{
+			"id": "59faaa9fa065490e",
+			"type": "text",
+			"text": "[[OHLC vs Swing]]",
+			"x": 740,
+			"y": 185,
+			"width": 220,
+			"height": 60,
+			"color": "5"
+		},
+		{
+			"id": "6a36f4f1d0594309",
+			"type": "text",
+			"text": "[[Session Liquidity]]",
+			"x": 740,
+			"y": 285,
+			"width": 220,
+			"height": 60,
+			"color": "5"
+		},
+		{
+			"id": "f75f5015a8294ba7",
+			"type": "text",
+			"text": "[[HTF and LTF Sweeps]]",
+			"x": 740,
+			"y": 385,
+			"width": 220,
+			"height": 60,
+			"color": "5"
+		},
+		{
+			"id": "6587dce0f3654dfe",
+			"type": "text",
+			"text": "[[HTF Context|## HTF Context]]",
+			"x": -240,
+			"y": 315,
+			"width": 240,
+			"height": 70,
+			"color": "2"
+		},
+		{
+			"id": "dd9a25c59f5445f0",
+			"type": "text",
+			"text": "[[High Timeframe Context]]",
+			"x": -480,
+			"y": 550,
+			"width": 220,
+			"height": 60,
+			"color": "2"
+		},
+		{
+			"id": "3b999672615746af",
+			"type": "text",
+			"text": "[[HTF Fair Value Gaps]]",
+			"x": -855,
+			"y": 780,
+			"width": 220,
+			"height": 60,
+			"color": "2"
+		},
+		{
+			"id": "e8a381435ea74992",
+			"type": "text",
+			"text": "[[HTF Swing High-Low Liquidity]]",
+			"x": -480,
+			"y": 780,
+			"width": 220,
+			"height": 60,
+			"color": "2"
+		},
+		{
+			"id": "d3d297a9ac284f2a",
+			"type": "text",
+			"text": "[[HTF Swing High Liquidity (Bearish Setup)]]",
+			"x": -605,
+			"y": 1010,
+			"width": 220,
+			"height": 60,
+			"color": "2"
+		},
+		{
+			"id": "2f9fa2b8f2df4578",
+			"type": "text",
+			"text": "[[HTF Swing Low Liquidity (Bullish Setup)]]",
+			"x": -355,
+			"y": 1010,
+			"width": 220,
+			"height": 60,
+			"color": "2"
+		},
+		{
+			"id": "a1c2f36b04674a4e",
+			"type": "text",
+			"text": "[[HTF to LTF Timeframe Alignment]]",
+			"x": -105,
+			"y": 780,
+			"width": 220,
+			"height": 60,
+			"color": "2"
+		},
+		{
+			"id": "a5b95907fc3b4cfe",
+			"type": "text",
+			"text": "[[Daily Bias]]",
+			"x": 145,
+			"y": 550,
+			"width": 220,
+			"height": 60,
+			"color": "2"
+		},
+		{
+			"id": "cbe9f6e2ebbf4a81",
+			"type": "text",
+			"text": "[[Intraday Profiles]]",
+			"x": 395,
+			"y": 550,
+			"width": 220,
+			"height": 60,
+			"color": "2"
+		},
+		{
+			"id": "401c25feab0f4b17",
+			"type": "text",
+			"text": "[[SMT|## SMT]]",
+			"x": -980,
+			"y": -70,
+			"width": 240,
+			"height": 70,
+			"color": "1"
+		},
+		{
+			"id": "525a088586c045a1",
+			"type": "text",
+			"text": "[[SMT and Position Sizing]]",
+			"x": -1200,
+			"y": -215,
+			"width": 220,
+			"height": 60,
+			"color": "1"
+		},
+		{
+			"id": "384804df617c48a0",
+			"type": "text",
+			"text": "[[Which Assets]]",
+			"x": -1200,
+			"y": -115,
+			"width": 220,
+			"height": 60,
+			"color": "1"
+		},
+		{
+			"id": "6994af847c234d6b",
+			"type": "text",
+			"text": "[[Trade Management]]",
+			"x": -1200,
+			"y": -15,
+			"width": 220,
+			"height": 60,
+			"color": "1"
+		},
+		{
+			"id": "21a8aa51d0d64afc",
+			"type": "text",
+			"text": "[[Good vs Bad SMT]]",
+			"x": -1200,
+			"y": 85,
+			"width": 220,
+			"height": 60,
+			"color": "1"
+		},
+		{
+			"id": "9f2528eaa67148b1",
+			"type": "text",
+			"text": "[[Model Variables|## Model Variables]]",
+			"x": 1780,
+			"y": -70,
+			"width": 240,
+			"height": 70,
+			"color": "4"
+		},
+		{
+			"id": "951e1760eb6b4a5f",
+			"type": "text",
+			"text": "[[Time]]",
+			"x": 2020,
+			"y": -265,
+			"width": 220,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "914043e7689c4b98",
+			"type": "text",
+			"text": "[[Session Open Times]]",
+			"x": 2250,
+			"y": -365,
+			"width": 220,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "a089ebe78f0f4b8b",
+			"type": "text",
+			"text": "[[News Drivers]]",
+			"x": 2250,
+			"y": -265,
+			"width": 220,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "b76873f4700a41c0",
+			"type": "text",
+			"text": "[[Manipulation]]",
+			"x": 2020,
+			"y": -15,
+			"width": 220,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "3f40d0bc40044bbc",
+			"type": "text",
+			"text": "[[Engineered Liquidity]]",
+			"x": 2250,
+			"y": -65,
+			"width": 220,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "01db0b2cb75f46a9",
+			"type": "text",
+			"text": "[[Manipulation at Open Times]]",
+			"x": 2250,
+			"y": 35,
+			"width": 220,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "59ea7ddd2ed049cc",
+			"type": "text",
+			"text": "[[Smooth Edges and EQH-EQL]]",
+			"x": 2020,
+			"y": 185,
+			"width": 220,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "924c1f9761eb471d",
+			"type": "text",
+			"text": "[[Smooth Edges as Draw on Liquidity]]",
+			"x": 2250,
+			"y": 135,
+			"width": 220,
+			"height": 60,
+			"color": "4"
+		},
+		{
+			"id": "530625ccf6074848",
+			"type": "text",
+			"text": "[[How to Spot Smooth Edges]]",
+			"x": 2250,
+			"y": 235,
+			"width": 220,
+			"height": 60,
+			"color": "4"
+		}
+	],
+	"edges": [
+		{
+			"id": "361e4374af964ff1",
+			"fromNode": "1ed9bfef2dca4c9c",
+			"fromSide": "top",
+			"toNode": "57feae97dfca468f",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "814463f85cfd42bc",
+			"fromNode": "1ed9bfef2dca4c9c",
+			"fromSide": "right",
+			"toNode": "972992df9d5b4af7",
+			"toSide": "left",
+			"color": "5"
+		},
+		{
+			"id": "9049345e81394b68",
+			"fromNode": "1ed9bfef2dca4c9c",
+			"fromSide": "bottom",
+			"toNode": "6587dce0f3654dfe",
+			"toSide": "top",
+			"color": "2"
+		},
+		{
+			"id": "f429898ffb1f4fe4",
+			"fromNode": "1ed9bfef2dca4c9c",
+			"fromSide": "left",
+			"toNode": "401c25feab0f4b17",
+			"toSide": "right",
+			"color": "1"
+		},
+		{
+			"id": "d790b770be2646e6",
+			"fromNode": "1ed9bfef2dca4c9c",
+			"fromSide": "right",
+			"toNode": "9f2528eaa67148b1",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "192872d4858b4419",
+			"fromNode": "57feae97dfca468f",
+			"fromSide": "top",
+			"toNode": "d309b9d1b35546c4",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "f7d24be1a7494f7b",
+			"fromNode": "57feae97dfca468f",
+			"fromSide": "top",
+			"toNode": "b7e7a39640234c5f",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "f03735e10dff4bde",
+			"fromNode": "57feae97dfca468f",
+			"fromSide": "top",
+			"toNode": "5da6e80f0c314498",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "a6382ca4e8e641a6",
+			"fromNode": "5da6e80f0c314498",
+			"fromSide": "top",
+			"toNode": "8c96bc09a5d64a96",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "d0404c2920694f6c",
+			"fromNode": "5da6e80f0c314498",
+			"fromSide": "top",
+			"toNode": "ff33c772ff3d4f82",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "4181e505bd794383",
+			"fromNode": "57feae97dfca468f",
+			"fromSide": "top",
+			"toNode": "17d4bd73c56c4a0f",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "5d4a701d83104af7",
+			"fromNode": "17d4bd73c56c4a0f",
+			"fromSide": "top",
+			"toNode": "9b5c73d8b86a48ef",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "0a3e7e574b174fe4",
+			"fromNode": "57feae97dfca468f",
+			"fromSide": "top",
+			"toNode": "b4ef5f80f5d74a1e",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "a5e1573032634d6d",
+			"fromNode": "b4ef5f80f5d74a1e",
+			"fromSide": "top",
+			"toNode": "0dd212239a464ae6",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "3e3ba88f87e949c0",
+			"fromNode": "b4ef5f80f5d74a1e",
+			"fromSide": "top",
+			"toNode": "f9bda545d5214c6e",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "a6aadfc6b9df42ef",
+			"fromNode": "b4ef5f80f5d74a1e",
+			"fromSide": "top",
+			"toNode": "0bb8471926564ebf",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "7f66b30f1df64e6e",
+			"fromNode": "b4ef5f80f5d74a1e",
+			"fromSide": "top",
+			"toNode": "a0345ac2a1874054",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "1436e4ce25994967",
+			"fromNode": "b4ef5f80f5d74a1e",
+			"fromSide": "top",
+			"toNode": "90b4f1e2f45c454f",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "ad7f5b28f9ac452c",
+			"fromNode": "b4ef5f80f5d74a1e",
+			"fromSide": "top",
+			"toNode": "b5ddc93cb4fb4a3b",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "3c37a35847674673",
+			"fromNode": "b4ef5f80f5d74a1e",
+			"fromSide": "top",
+			"toNode": "8203f1ee49154080",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "266f0b0abab14b4a",
+			"fromNode": "b4ef5f80f5d74a1e",
+			"fromSide": "top",
+			"toNode": "6b2a03fae35d4cd5",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "615f9e9abe734bf7",
+			"fromNode": "b4ef5f80f5d74a1e",
+			"fromSide": "top",
+			"toNode": "bd3819172bc34ad1",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "e3904b7739c946f2",
+			"fromNode": "b4ef5f80f5d74a1e",
+			"fromSide": "top",
+			"toNode": "604416399d43421c",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "c7747c8aca034d28",
+			"fromNode": "57feae97dfca468f",
+			"fromSide": "top",
+			"toNode": "419464f454e34dc8",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "7ef8d06cff9e44ed",
+			"fromNode": "57feae97dfca468f",
+			"fromSide": "top",
+			"toNode": "e6c8f79f0ac5497b",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "ee09c33a762e4dcc",
+			"fromNode": "e6c8f79f0ac5497b",
+			"fromSide": "top",
+			"toNode": "0695defa0b414d74",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "9e43c68c93b043a7",
+			"fromNode": "57feae97dfca468f",
+			"fromSide": "top",
+			"toNode": "d0e2bedc84da493f",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "6ab07914593d4db1",
+			"fromNode": "57feae97dfca468f",
+			"fromSide": "top",
+			"toNode": "5801ced1a13e4028",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "f4837504c6044452",
+			"fromNode": "57feae97dfca468f",
+			"fromSide": "top",
+			"toNode": "be168f5c185e4f21",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "9a89adeb03e34310",
+			"fromNode": "57feae97dfca468f",
+			"fromSide": "top",
+			"toNode": "6fe2719122004fd3",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "8a419c4ecfaf491c",
+			"fromNode": "6fe2719122004fd3",
+			"fromSide": "top",
+			"toNode": "b8b3429ec04a4acf",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "f2659f4d140f44c1",
+			"fromNode": "6fe2719122004fd3",
+			"fromSide": "top",
+			"toNode": "9b1819c4fda8485d",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "5101c74ac1f44253",
+			"fromNode": "6fe2719122004fd3",
+			"fromSide": "top",
+			"toNode": "536432e6de1543da",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "23a62249f1c34fc4",
+			"fromNode": "6fe2719122004fd3",
+			"fromSide": "top",
+			"toNode": "9c3216e51d604ce9",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "a17e9c4630ee40f5",
+			"fromNode": "6fe2719122004fd3",
+			"fromSide": "top",
+			"toNode": "5144bb3ae05d4e54",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "0f3f2576827d49bf",
+			"fromNode": "6fe2719122004fd3",
+			"fromSide": "top",
+			"toNode": "ab4b40b8bc3244db",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "fe37e123e01e4d86",
+			"fromNode": "6fe2719122004fd3",
+			"fromSide": "top",
+			"toNode": "5a9112cb7616412f",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "2dc7a0bc2c7c400e",
+			"fromNode": "6fe2719122004fd3",
+			"fromSide": "top",
+			"toNode": "f56ac77590e14358",
+			"toSide": "bottom",
+			"color": "6"
+		},
+		{
+			"id": "3f6e4181132048e8",
+			"fromNode": "972992df9d5b4af7",
+			"fromSide": "right",
+			"toNode": "d4a0bc00b2cf40db",
+			"toSide": "left",
+			"color": "5"
+		},
+		{
+			"id": "490432a4209749d4",
+			"fromNode": "972992df9d5b4af7",
+			"fromSide": "right",
+			"toNode": "5ec65188d31c4248",
+			"toSide": "left",
+			"color": "5"
+		},
+		{
+			"id": "5fb44d0f322e450d",
+			"fromNode": "5ec65188d31c4248",
+			"fromSide": "right",
+			"toNode": "2761c5bcb3b14e4d",
+			"toSide": "left",
+			"color": "5"
+		},
+		{
+			"id": "9be8400f77d74658",
+			"fromNode": "972992df9d5b4af7",
+			"fromSide": "right",
+			"toNode": "ab74a7dde11a41f0",
+			"toSide": "left",
+			"color": "5"
+		},
+		{
+			"id": "401d2b95577240c1",
+			"fromNode": "ab74a7dde11a41f0",
+			"fromSide": "right",
+			"toNode": "9bf584dbe57641f9",
+			"toSide": "left",
+			"color": "5"
+		},
+		{
+			"id": "1b2b698ccf8f4404",
+			"fromNode": "ab74a7dde11a41f0",
+			"fromSide": "right",
+			"toNode": "73e4a1395b9c40cb",
+			"toSide": "left",
+			"color": "5"
+		},
+		{
+			"id": "59cc13cd2f654318",
+			"fromNode": "972992df9d5b4af7",
+			"fromSide": "right",
+			"toNode": "80fb0dfcf00d4019",
+			"toSide": "left",
+			"color": "5"
+		},
+		{
+			"id": "4d85a9111ae14182",
+			"fromNode": "80fb0dfcf00d4019",
+			"fromSide": "right",
+			"toNode": "3a26dcb1aa4c45f3",
+			"toSide": "left",
+			"color": "5"
+		},
+		{
+			"id": "9df5923ce6f24131",
+			"fromNode": "80fb0dfcf00d4019",
+			"fromSide": "right",
+			"toNode": "651766f4fa9f4e7d",
+			"toSide": "left",
+			"color": "5"
+		},
+		{
+			"id": "22786e10e51e43bd",
+			"fromNode": "972992df9d5b4af7",
+			"fromSide": "right",
+			"toNode": "93b4d77c52c64b91",
+			"toSide": "left",
+			"color": "5"
+		},
+		{
+			"id": "e012d9f22be64be8",
+			"fromNode": "972992df9d5b4af7",
+			"fromSide": "right",
+			"toNode": "59faaa9fa065490e",
+			"toSide": "left",
+			"color": "5"
+		},
+		{
+			"id": "b7c08c3789fb46df",
+			"fromNode": "972992df9d5b4af7",
+			"fromSide": "right",
+			"toNode": "6a36f4f1d0594309",
+			"toSide": "left",
+			"color": "5"
+		},
+		{
+			"id": "ddb0ba8182ed4462",
+			"fromNode": "972992df9d5b4af7",
+			"fromSide": "right",
+			"toNode": "f75f5015a8294ba7",
+			"toSide": "left",
+			"color": "5"
+		},
+		{
+			"id": "dea788d464da4cd5",
+			"fromNode": "6587dce0f3654dfe",
+			"fromSide": "bottom",
+			"toNode": "dd9a25c59f5445f0",
+			"toSide": "top",
+			"color": "2"
+		},
+		{
+			"id": "b81f4ffe11214032",
+			"fromNode": "dd9a25c59f5445f0",
+			"fromSide": "bottom",
+			"toNode": "3b999672615746af",
+			"toSide": "top",
+			"color": "2"
+		},
+		{
+			"id": "0fd6dc430b0c4873",
+			"fromNode": "dd9a25c59f5445f0",
+			"fromSide": "bottom",
+			"toNode": "e8a381435ea74992",
+			"toSide": "top",
+			"color": "2"
+		},
+		{
+			"id": "8efa35419c404c52",
+			"fromNode": "e8a381435ea74992",
+			"fromSide": "bottom",
+			"toNode": "d3d297a9ac284f2a",
+			"toSide": "top",
+			"color": "2"
+		},
+		{
+			"id": "db2186c0aec54fc6",
+			"fromNode": "e8a381435ea74992",
+			"fromSide": "bottom",
+			"toNode": "2f9fa2b8f2df4578",
+			"toSide": "top",
+			"color": "2"
+		},
+		{
+			"id": "1b4556b909a14a10",
+			"fromNode": "dd9a25c59f5445f0",
+			"fromSide": "bottom",
+			"toNode": "a1c2f36b04674a4e",
+			"toSide": "top",
+			"color": "2"
+		},
+		{
+			"id": "f7478ba1b948425e",
+			"fromNode": "6587dce0f3654dfe",
+			"fromSide": "bottom",
+			"toNode": "a5b95907fc3b4cfe",
+			"toSide": "top",
+			"color": "2"
+		},
+		{
+			"id": "165b311daec64b62",
+			"fromNode": "6587dce0f3654dfe",
+			"fromSide": "bottom",
+			"toNode": "cbe9f6e2ebbf4a81",
+			"toSide": "top",
+			"color": "2"
+		},
+		{
+			"id": "ad884134fee84d19",
+			"fromNode": "401c25feab0f4b17",
+			"fromSide": "left",
+			"toNode": "525a088586c045a1",
+			"toSide": "right",
+			"color": "1"
+		},
+		{
+			"id": "5ad8b93f51eb420e",
+			"fromNode": "401c25feab0f4b17",
+			"fromSide": "left",
+			"toNode": "384804df617c48a0",
+			"toSide": "right",
+			"color": "1"
+		},
+		{
+			"id": "5312be4062cc4692",
+			"fromNode": "401c25feab0f4b17",
+			"fromSide": "left",
+			"toNode": "6994af847c234d6b",
+			"toSide": "right",
+			"color": "1"
+		},
+		{
+			"id": "a841c6e62acc4832",
+			"fromNode": "401c25feab0f4b17",
+			"fromSide": "left",
+			"toNode": "21a8aa51d0d64afc",
+			"toSide": "right",
+			"color": "1"
+		},
+		{
+			"id": "5822b25a32aa45fc",
+			"fromNode": "9f2528eaa67148b1",
+			"fromSide": "right",
+			"toNode": "951e1760eb6b4a5f",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "8947c47dcae549e0",
+			"fromNode": "951e1760eb6b4a5f",
+			"fromSide": "right",
+			"toNode": "914043e7689c4b98",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "bbba7879309a4cc4",
+			"fromNode": "951e1760eb6b4a5f",
+			"fromSide": "right",
+			"toNode": "a089ebe78f0f4b8b",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "afcd5c123b5541a7",
+			"fromNode": "9f2528eaa67148b1",
+			"fromSide": "right",
+			"toNode": "b76873f4700a41c0",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "60443f199e384ab6",
+			"fromNode": "b76873f4700a41c0",
+			"fromSide": "right",
+			"toNode": "3f40d0bc40044bbc",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "49a405b8e92a4030",
+			"fromNode": "b76873f4700a41c0",
+			"fromSide": "right",
+			"toNode": "01db0b2cb75f46a9",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "c54d49fad2744f39",
+			"fromNode": "9f2528eaa67148b1",
+			"fromSide": "right",
+			"toNode": "59ea7ddd2ed049cc",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "e396b267f397448f",
+			"fromNode": "59ea7ddd2ed049cc",
+			"fromSide": "right",
+			"toNode": "924c1f9761eb471d",
+			"toSide": "left",
+			"color": "4"
+		},
+		{
+			"id": "60157db88ed24bdd",
+			"fromNode": "59ea7ddd2ed049cc",
+			"fromSide": "right",
+			"toNode": "530625ccf6074848",
+			"toSide": "left",
+			"color": "4"
+		}
+	]
+}

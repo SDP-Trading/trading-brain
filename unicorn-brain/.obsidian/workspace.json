@@ -1,0 +1,313 @@
+{
+  "main": {
+    "id": "ac34907412fdc666",
+    "type": "split",
+    "children": [
+      {
+        "id": "28fbab07208a8722",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c929fed2b0f454bd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "fafd22c403895d64",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Unicorn Model Map.canvas",
+                "viewState": {
+                  "x": 124.03613295172508,
+                  "y": 694.0481772560418,
+                  "zoom": -3.2223296995556465
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Unicorn Model Map"
+            }
+          },
+          {
+            "id": "4cb0ff16ad3ae5ce",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Unicorn Model Map.canvas",
+                "viewState": {
+                  "x": 594.5917204651399,
+                  "y": -121.62771498081602,
+                  "zoom": -4
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Unicorn Model Map"
+            }
+          },
+          {
+            "id": "a744547476196cb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Unicorn Model/Liquidity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Liquidity"
+            }
+          },
+          {
+            "id": "92a1532a096f6ee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Unicorn Model/Unicorn/Fair Value Gap Anatomy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fair Value Gap Anatomy"
+            }
+          },
+          {
+            "id": "4ac51200da00372f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Unicorn Model/Unicorn/Example 4 - Jul 25 2024 ES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Example 4 - Jul 25 2024 ES"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f34645acc52aab7",
+    "type": "split",
+    "children": [
+      {
+        "id": "910bbdcb0fa0da7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e39bf6f6b417b94c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "501d5ef3bbb4a0c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "3fcf8b67da470d33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "633a4f35e91d16f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "41312daaf172536a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24a2545d1cbeb8d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "aa661f009de845dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "4e79d415970c0284",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "edb75b431e91fc5d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "7ea7ce2d885deb0f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "c929fed2b0f454bd",
+  "lastOpenFiles": [
+    "The Unicorn Model/Unicorn/What is a Breaker Block.md",
+    "The Unicorn Model/Unicorn.md",
+    "The Unicorn Model.md",
+    "Reversal or Continuation.md",
+    "The Unicorn Model/Liquidity.md",
+    "The Unicorn Model/Liquidity/Swing High-Low Liquidity.md",
+    "The Unicorn Model/Liquidity/OHLC vs Swing.md",
+    "The Unicorn Model/Unicorn/Example 7 - Jan 30 2024 NQ.md",
+    "The Unicorn Model/Unicorn/Example 6 - Jan 16 2024 NQ.md",
+    "Unicorn Model Map.canvas",
+    "The Unicorn Model/Liquidity/OHLC Liquidity.md",
+    "The Unicorn Model/HTF Context/HTF to LTF Timeframe Alignment.md",
+    "The Unicorn Model/Unicorn/Fair Value Gap Anatomy.md",
+    "The Unicorn Model/Unicorn/Example 4 - Jul 25 2024 ES.md",
+    "Futures 101 - Course Structure.md",
+    "Video - Why Displacement Matters.md",
+    "Video - Stop Loss Placement.md",
+    "Video - Loss Aversion in Trading.md",
+    "Video - Consistency in Trading.md",
+    "Video - Why 2R is the Sweet Spot.md",
+    "Course Structure.md",
+    "The Unicorn Model/Liquidity/What is Liquidity.md",
+    "Course Quizzes.md",
+    "The Unicorn Model/Model Variables/Time.md",
+    "The Unicorn Model/Unicorn/What is the Unicorn Pattern.md",
+    "The Unicorn Model/HTF Context/Daily Bias.md",
+    "The Unicorn Model/Model Variables/Manipulation.md",
+    "Sin nombre",
+    "Sin título.base",
+    "The Unicorn Model/Unicorn/CL_17_01_2024_Example.png",
+    "The Unicorn Model/Unicorn/NQ_30_01_2024_Example.png",
+    "The Unicorn Model/Unicorn/NQ_16_01_2024_SmoothEdges.png",
+    "The Unicorn Model/Unicorn/ES_09_01_2024_SmoothEdges.png",
+    "The Unicorn Model/Model Variables/Manipulation at Open Times.png",
+    "The Unicorn Model/Unicorn/Fair Value Gap Inversion.png",
+    "The Unicorn Model/Unicorn/Which FVG to Choose.png",
+    "The Unicorn Model/Unicorn/FVG Stop Loss Methods.png",
+    "The Unicorn Model/Unicorn/FVG Entry Methods.png",
+    "The Unicorn Model/Unicorn/Fair Value Gap Anatomy.png",
+    "The Unicorn Model/Model Variables",
+    "Sin título.canvas",
+    "Sin título 1.canvas",
+    "Sin título 2.canvas",
+    "The Unicorn Model.md.tmp.82864.4f8fced1edf9",
+    "Unicorn Model Map.canvas.tmp.82864.6daabfa3a87d",
+    "The Unicorn Model.md.tmp.82864.a23884ff5213",
+    "The Unicorn Model/HTF Context/Intraday Profiles.md.tmp.82864.c43402d414aa",
+    "The Unicorn Model/HTF Context/Daily Bias.md.tmp.82864.3250b6c8f871",
+    "The Unicorn Model/HTF Context/Weekly Bias.md.tmp.82864.e1ae190004ed",
+    "The Unicorn Model/HTF Context/Macro TA and Trend.md.tmp.82864.1fda8b126ee6"
+  ]
+}

@@ -1,0 +1,489 @@
+{
+	"nodes": [
+		{
+			"id": "a628cfdd30dada1c",
+			"type": "text",
+			"text": "**Pre-session prep**\n\n[[Pre-Trade Checklist]]",
+			"x": 698,
+			"y": 20,
+			"width": 220,
+			"height": 82,
+			"color": "4"
+		},
+		{
+			"id": "4d46eda2d1f13644",
+			"type": "text",
+			"text": "**Check calendar for red-folder news**\n\n[[News Drivers]]",
+			"x": 659,
+			"y": 192,
+			"width": 298,
+			"height": 82,
+			"color": "5"
+		},
+		{
+			"id": "1bcac9ff45f4e703",
+			"type": "text",
+			"text": "**High-impact news today?**\n\n[[News Drivers]]",
+			"x": 697,
+			"y": 364,
+			"width": 221,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "4caf0adbfabff314",
+			"type": "text",
+			"text": "**No entries until release prints**\n\n[[News Drivers]]",
+			"x": 759,
+			"y": 536,
+			"width": 277,
+			"height": 82,
+			"color": "5"
+		},
+		{
+			"id": "5f7e6e9088348ed7",
+			"type": "text",
+			"text": "**Mark HTF FVGs and swing highs/lows**\n\n[[High Timeframe Context]]",
+			"x": 659,
+			"y": 708,
+			"width": 298,
+			"height": 82,
+			"color": "5"
+		},
+		{
+			"id": "d5e3220700c7ead0",
+			"type": "text",
+			"text": "**Mark Smooth Edges, EQH/EQL, Asia range**\n\n[[Smooth Edges and EQH-EQL]]",
+			"x": 645,
+			"y": 880,
+			"width": 326,
+			"height": 82,
+			"color": "5"
+		},
+		{
+			"id": "d2a850856bb65164",
+			"type": "text",
+			"text": "**Inside London / NY AM / NY PM window?**\n\n[[Session Open Times]]",
+			"x": 648,
+			"y": 1052,
+			"width": 319,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "4c64844da225191a",
+			"type": "text",
+			"text": "**Liquidity swept at/after session open?**\n\n[[Manipulation]]",
+			"x": 543,
+			"y": 1224,
+			"width": 326,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "12ef255bd873ce44",
+			"type": "text",
+			"text": "**Stop hunt leg identified?**\n\n[[Stop Hunt]]",
+			"x": 510,
+			"y": 1396,
+			"width": 235,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "13a4dd9aa092ef6b",
+			"type": "text",
+			"text": "**Mark breaker on the stop hunt leg**\n\n[[What is a Breaker Block]]",
+			"x": 379,
+			"y": 1568,
+			"width": 291,
+			"height": 82,
+			"color": "5"
+		},
+		{
+			"id": "5987207d52e6b77e",
+			"type": "text",
+			"text": "**Clean displacement through the breaker?**\n\n[[Displacement]]",
+			"x": 358,
+			"y": 1740,
+			"width": 333,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "01a03b9c2fefde0a",
+			"type": "text",
+			"text": "**FVG aligned with the breaker?**\n\n[[Breaker Block and FVG Aligned]]",
+			"x": 307,
+			"y": 1912,
+			"width": 263,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "5cc999f48a743746",
+			"type": "text",
+			"text": "**Several FVGs: pick most confluence**\n\n[[Which FVG to Choose]]",
+			"x": 195,
+			"y": 2084,
+			"width": 298,
+			"height": 82,
+			"color": "5"
+		},
+		{
+			"id": "5472d403d62d544e",
+			"type": "text",
+			"text": "**Score boosters: HTF POI, LTF, draw**\n\n[[Model Variables]]",
+			"x": 195,
+			"y": 2256,
+			"width": 298,
+			"height": 82,
+			"color": "5"
+		},
+		{
+			"id": "bc29ec0eaf151914",
+			"type": "text",
+			"text": "**Candle closed beyond breaker?**\n\n[[Where to Enter]]",
+			"x": 213,
+			"y": 2428,
+			"width": 263,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "9e7c5877456976bf",
+			"type": "text",
+			"text": "**Choose limit retest (default) or market**\n\n[[Where to Enter]]",
+			"x": 168,
+			"y": 2600,
+			"width": 333,
+			"height": 82,
+			"color": "5"
+		},
+		{
+			"id": "502a39d15b469e75",
+			"type": "text",
+			"text": "**Entry level: FVG touch or breaker touch**\n\n[[FVG Touch vs Breaker Touch Entry]]",
+			"x": 168,
+			"y": 2772,
+			"width": 333,
+			"height": 82,
+			"color": "5"
+		},
+		{
+			"id": "9b5638f0721dc52b",
+			"type": "text",
+			"text": "**Enter trade**\n\n[[Where to Enter]]",
+			"x": 224,
+			"y": 2944,
+			"width": 220,
+			"height": 82,
+			"color": "6"
+		},
+		{
+			"id": "321a050aa91d63b5",
+			"type": "text",
+			"text": "**Stop beyond breaker / sweep wick**\n\n[[Stop Loss Placement]]",
+			"x": 192,
+			"y": 3116,
+			"width": 284,
+			"height": 82,
+			"color": "6"
+		},
+		{
+			"id": "1160c841164bd312",
+			"type": "text",
+			"text": "**Size position from stop distance**\n\n[[Pre-Trade Checklist]]",
+			"x": 192,
+			"y": 3288,
+			"width": 284,
+			"height": 82,
+			"color": "6"
+		},
+		{
+			"id": "07ac20bf03a405c4",
+			"type": "text",
+			"text": "**Clear Smooth Edges / EQH-EQL beyond 2R?**\n\n[[Take Profit]]",
+			"x": 168,
+			"y": 3460,
+			"width": 333,
+			"height": 82,
+			"color": "3"
+		},
+		{
+			"id": "e7363e6466972677",
+			"type": "text",
+			"text": "**Take profit fixed at 2R**\n\n[[Take Profit]]",
+			"x": 385,
+			"y": 3632,
+			"width": 221,
+			"height": 82,
+			"color": "6"
+		},
+		{
+			"id": "4696698144e0c040",
+			"type": "text",
+			"text": "**Extend target to the liquidity draw**\n\n[[Take Profit]]",
+			"x": 20,
+			"y": 3632,
+			"width": 305,
+			"height": 82,
+			"color": "6"
+		},
+		{
+			"id": "ef6dff04ab32103c",
+			"type": "text",
+			"text": "**No trade**",
+			"x": 836,
+			"y": 2606,
+			"width": 220,
+			"height": 70,
+			"color": "1"
+		},
+		{
+			"id": "4fbc7814e903831c",
+			"type": "text",
+			"text": "**Trade taken and closed**",
+			"x": 224,
+			"y": 3804,
+			"width": 220,
+			"height": 70,
+			"color": "1"
+		}
+	],
+	"edges": [
+		{
+			"id": "d4daf7dafb5b8e90",
+			"fromNode": "a628cfdd30dada1c",
+			"fromSide": "bottom",
+			"toNode": "4d46eda2d1f13644",
+			"toSide": "top"
+		},
+		{
+			"id": "ab2d5425e382deb5",
+			"fromNode": "4d46eda2d1f13644",
+			"fromSide": "bottom",
+			"toNode": "1bcac9ff45f4e703",
+			"toSide": "top"
+		},
+		{
+			"id": "13e84ba962f1aacd",
+			"fromNode": "1bcac9ff45f4e703",
+			"fromSide": "bottom",
+			"toNode": "4caf0adbfabff314",
+			"toSide": "top",
+			"label": "Yes"
+		},
+		{
+			"id": "cf224a2363f46c3d",
+			"fromNode": "1bcac9ff45f4e703",
+			"fromSide": "bottom",
+			"toNode": "5f7e6e9088348ed7",
+			"toSide": "top",
+			"label": "No"
+		},
+		{
+			"id": "bc15c779045d1a15",
+			"fromNode": "4caf0adbfabff314",
+			"fromSide": "bottom",
+			"toNode": "5f7e6e9088348ed7",
+			"toSide": "top"
+		},
+		{
+			"id": "0554c9dd69f45b87",
+			"fromNode": "5f7e6e9088348ed7",
+			"fromSide": "bottom",
+			"toNode": "d5e3220700c7ead0",
+			"toSide": "top"
+		},
+		{
+			"id": "b23f6522656edf4f",
+			"fromNode": "d5e3220700c7ead0",
+			"fromSide": "bottom",
+			"toNode": "d2a850856bb65164",
+			"toSide": "top"
+		},
+		{
+			"id": "fb058de59be39b1c",
+			"fromNode": "d2a850856bb65164",
+			"fromSide": "bottom",
+			"toNode": "4c64844da225191a",
+			"toSide": "top",
+			"label": "Yes"
+		},
+		{
+			"id": "ba498e761f9320d9",
+			"fromNode": "d2a850856bb65164",
+			"fromSide": "bottom",
+			"toNode": "ef6dff04ab32103c",
+			"toSide": "top",
+			"label": "No"
+		},
+		{
+			"id": "f9297927a4f214f1",
+			"fromNode": "4c64844da225191a",
+			"fromSide": "bottom",
+			"toNode": "12ef255bd873ce44",
+			"toSide": "top",
+			"label": "Yes"
+		},
+		{
+			"id": "3e653833d13c1eb6",
+			"fromNode": "4c64844da225191a",
+			"fromSide": "bottom",
+			"toNode": "ef6dff04ab32103c",
+			"toSide": "top",
+			"label": "No"
+		},
+		{
+			"id": "31ab029c61402975",
+			"fromNode": "12ef255bd873ce44",
+			"fromSide": "bottom",
+			"toNode": "13a4dd9aa092ef6b",
+			"toSide": "top",
+			"label": "Yes"
+		},
+		{
+			"id": "9507e24ee1c90ca7",
+			"fromNode": "12ef255bd873ce44",
+			"fromSide": "bottom",
+			"toNode": "ef6dff04ab32103c",
+			"toSide": "top",
+			"label": "No"
+		},
+		{
+			"id": "ace53ac7d236e6f7",
+			"fromNode": "13a4dd9aa092ef6b",
+			"fromSide": "bottom",
+			"toNode": "5987207d52e6b77e",
+			"toSide": "top"
+		},
+		{
+			"id": "6b2c14266c4eac7c",
+			"fromNode": "5987207d52e6b77e",
+			"fromSide": "bottom",
+			"toNode": "01a03b9c2fefde0a",
+			"toSide": "top",
+			"label": "Yes"
+		},
+		{
+			"id": "ea859771a00f6f06",
+			"fromNode": "5987207d52e6b77e",
+			"fromSide": "bottom",
+			"toNode": "ef6dff04ab32103c",
+			"toSide": "top",
+			"label": "No"
+		},
+		{
+			"id": "9a54ff98b2558fdb",
+			"fromNode": "01a03b9c2fefde0a",
+			"fromSide": "bottom",
+			"toNode": "5cc999f48a743746",
+			"toSide": "top",
+			"label": "Yes"
+		},
+		{
+			"id": "0b0dca0bef7a47d8",
+			"fromNode": "01a03b9c2fefde0a",
+			"fromSide": "bottom",
+			"toNode": "ef6dff04ab32103c",
+			"toSide": "top",
+			"label": "No"
+		},
+		{
+			"id": "644a76397b531f83",
+			"fromNode": "5cc999f48a743746",
+			"fromSide": "bottom",
+			"toNode": "5472d403d62d544e",
+			"toSide": "top"
+		},
+		{
+			"id": "65ce94b6c1bf8281",
+			"fromNode": "5472d403d62d544e",
+			"fromSide": "bottom",
+			"toNode": "bc29ec0eaf151914",
+			"toSide": "top"
+		},
+		{
+			"id": "1c620404aef27f79",
+			"fromNode": "bc29ec0eaf151914",
+			"fromSide": "bottom",
+			"toNode": "9e7c5877456976bf",
+			"toSide": "top",
+			"label": "Yes"
+		},
+		{
+			"id": "0d32c439580cc647",
+			"fromNode": "bc29ec0eaf151914",
+			"fromSide": "bottom",
+			"toNode": "ef6dff04ab32103c",
+			"toSide": "top",
+			"label": "No"
+		},
+		{
+			"id": "f7139da0b50fc670",
+			"fromNode": "9e7c5877456976bf",
+			"fromSide": "bottom",
+			"toNode": "502a39d15b469e75",
+			"toSide": "top"
+		},
+		{
+			"id": "0fe91040bcfe04e2",
+			"fromNode": "502a39d15b469e75",
+			"fromSide": "bottom",
+			"toNode": "9b5638f0721dc52b",
+			"toSide": "top"
+		},
+		{
+			"id": "a3707d571f440ec8",
+			"fromNode": "9b5638f0721dc52b",
+			"fromSide": "bottom",
+			"toNode": "321a050aa91d63b5",
+			"toSide": "top"
+		},
+		{
+			"id": "e70a01d1ea544974",
+			"fromNode": "321a050aa91d63b5",
+			"fromSide": "bottom",
+			"toNode": "1160c841164bd312",
+			"toSide": "top"
+		},
+		{
+			"id": "88fc096b7b1a009b",
+			"fromNode": "1160c841164bd312",
+			"fromSide": "bottom",
+			"toNode": "07ac20bf03a405c4",
+			"toSide": "top"
+		},
+		{
+			"id": "3c9b898e6116b99e",
+			"fromNode": "07ac20bf03a405c4",
+			"fromSide": "bottom",
+			"toNode": "4696698144e0c040",
+			"toSide": "top",
+			"label": "Yes"
+		},
+		{
+			"id": "689368189fcf0e36",
+			"fromNode": "07ac20bf03a405c4",
+			"fromSide": "bottom",
+			"toNode": "e7363e6466972677",
+			"toSide": "top",
+			"label": "No"
+		},
+		{
+			"id": "a7f50e3f0b1c90ca",
+			"fromNode": "e7363e6466972677",
+			"fromSide": "bottom",
+			"toNode": "4fbc7814e903831c",
+			"toSide": "top"
+		},
+		{
+			"id": "4725f03cde402c58",
+			"fromNode": "4696698144e0c040",
+			"fromSide": "bottom",
+			"toNode": "4fbc7814e903831c",
+			"toSide": "top"
+		}
+	]
+}

@@ -1,0 +1,207 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+@custom-variant dark (&:is(.dark *));
+
+/* Tokens de shadcn/ui (base zinc, color de contraste #0022FF). */
+:root {
+  --radius: 0.625rem;
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.141 0.005 285.823);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.141 0.005 285.823);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.141 0.005 285.823);
+  --primary: #0022ff;
+  --primary-foreground: #ffffff;
+  --secondary: oklch(0.967 0.001 286.375);
+  --secondary-foreground: oklch(0.21 0.006 285.885);
+  --muted: oklch(0.967 0.001 286.375);
+  --muted-foreground: oklch(0.552 0.016 285.938);
+  --accent: oklch(0.967 0.001 286.375);
+  --accent-foreground: oklch(0.21 0.006 285.885);
+  --destructive: oklch(0.577 0.245 27.325);
+  --border: oklch(0.92 0.004 286.32);
+  --input: oklch(0.92 0.004 286.32);
+  --ring: #0022ff;
+  --sidebar: oklch(0.985 0 0);
+  --sidebar-foreground: oklch(0.141 0.005 285.823);
+  --sidebar-accent: oklch(0.951 0.004 286.32);
+  --sidebar-accent-foreground: oklch(0.21 0.006 285.885);
+  --sidebar-border: oklch(0.92 0.004 286.32);
+  /* Propios de la app */
+  --link: #0022ff;
+  --link-missing: #6b7bff;
+  --tag-bg: #e6e9ff;
+  --code-bg: oklch(0.967 0.001 286.375);
+  --warning: oklch(0.666 0.179 58.318);
+  --success: oklch(0.627 0.194 149.214);
+  --font-text: ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif;
+  --font-code: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, monospace;
+}
+
+.dark {
+  --background: oklch(0.141 0.005 285.823);
+  --foreground: oklch(0.985 0 0);
+  --card: oklch(0.21 0.006 285.885);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.21 0.006 285.885);
+  --popover-foreground: oklch(0.985 0 0);
+  --primary: #0022ff;
+  --primary-foreground: #ffffff;
+  --secondary: oklch(0.274 0.006 286.033);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.274 0.006 286.033);
+  --muted-foreground: oklch(0.705 0.015 286.067);
+  --accent: oklch(0.274 0.006 286.033);
+  --accent-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.704 0.191 22.216);
+  --border: oklch(1 0 0 / 10%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: #4c64ff;
+  --sidebar: oklch(0.18 0.005 285.823);
+  --sidebar-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.274 0.006 286.033);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(1 0 0 / 10%);
+  --link: #7385ff;
+  --link-missing: #5a68c0;
+  --tag-bg: #111b5b;
+  --code-bg: oklch(0.21 0.006 285.885);
+  --warning: oklch(0.828 0.189 84.429);
+  --success: oklch(0.792 0.209 151.711);
+}
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-link: var(--link);
+  --color-tag: var(--tag-bg);
+  --color-warning: var(--warning);
+  --color-success: var(--success);
+  --font-sans: var(--font-text);
+  --font-mono: var(--font-code);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html,
+  body,
+  #root {
+    @apply h-full;
+  }
+  body {
+    @apply overflow-hidden bg-background text-foreground antialiased;
+    font-size: 14px;
+  }
+}
+
+/* Zona para arrastrar la ventana (barra de título oculta en macOS). */
+.drag-region {
+  position: fixed;
+  inset: 0 0 auto 0;
+  height: 28px;
+  -webkit-app-region: drag;
+  z-index: 0;
+}
+button,
+input,
+select,
+textarea,
+a,
+[role='button'],
+[data-slot] {
+  -webkit-app-region: no-drag;
+}
+
+/* ---------- Markdown renderizado (chat) ---------- */
+.markdown {
+  max-width: 760px;
+  margin: 0 auto;
+  line-height: 1.7;
+}
+.markdown > :first-child { margin-top: 0; }
+.markdown p, .markdown ul, .markdown ol, .markdown blockquote, .markdown pre, .markdown table { margin: 0.6em 0; }
+.markdown h1 { font-size: 1.6em; font-weight: 700; margin: 1em 0 0.4em; }
+.markdown h2 { font-size: 1.3em; font-weight: 700; margin: 1em 0 0.4em; }
+.markdown h3 { font-size: 1.1em; font-weight: 600; margin: 0.9em 0 0.3em; }
+.markdown ul { list-style: disc; padding-left: 1.4em; }
+.markdown ol { list-style: decimal; padding-left: 1.4em; }
+.markdown ul.contains-task-list { list-style: none; padding-left: 0.4em; }
+.markdown strong { font-weight: 700; }
+.markdown em { font-style: italic; }
+.markdown code { font-family: var(--font-code); background: var(--code-bg); padding: 1px 5px; border-radius: 4px; font-size: 0.88em; }
+.markdown pre { background: var(--code-bg); padding: 12px; border-radius: 6px; overflow-x: auto; }
+.markdown pre code { background: none; padding: 0; }
+.markdown blockquote { border-left: 3px solid var(--primary); padding-left: 14px; color: var(--muted-foreground); }
+.markdown table { border-collapse: collapse; }
+.markdown th, .markdown td { border: 1px solid var(--border); padding: 4px 10px; }
+.markdown th { background: var(--muted); }
+.markdown hr { border-top: 1px solid var(--border); margin: 1em 0; }
+.markdown a { color: var(--link); }
+.wikilink { color: var(--link); text-decoration: none; cursor: pointer; }
+.wikilink:hover { text-decoration: underline; }
+.wikilink.missing { color: var(--link-missing); }
+
+/* ---------- Editor (CodeMirror + live preview) ---------- */
+.editor, .editor .cm-editor { height: 100%; }
+.editor .cm-editor { background: transparent !important; }
+.editor .cm-scroller { padding: 0 40px; }
+.editor .cm-line.cm-lp-h { font-weight: 700; line-height: 1.35; }
+.editor .cm-line.cm-lp-h1 { font-size: 1.8em; padding-top: 0.5em; }
+.editor .cm-line.cm-lp-h2 { font-size: 1.4em; padding-top: 0.7em; }
+.editor .cm-line.cm-lp-h3 { font-size: 1.18em; padding-top: 0.6em; }
+.editor .cm-line.cm-lp-h4, .editor .cm-line.cm-lp-h5, .editor .cm-line.cm-lp-h6 { font-size: 1.05em; padding-top: 0.4em; }
+.editor .cm-lp-wikilink, .editor .cm-lp-link { color: var(--link); cursor: pointer; }
+.editor .cm-lp-wikilink:hover, .editor .cm-lp-link:hover { text-decoration: underline; }
+.editor .cm-lp-wikilink.cm-lp-missing { color: var(--link-missing); }
+.editor .cm-lp-wikilink-raw { color: var(--link); }
+.editor .cm-lp-tag { color: var(--link); background: var(--tag-bg); border-radius: 8px; padding: 0 4px; }
+.editor .cm-lp-inline-code { font-family: var(--font-code); background: var(--code-bg); border-radius: 4px; padding: 1px 3px; font-size: 0.88em; }
+.editor .cm-line.cm-lp-code { font-family: var(--font-code); font-size: 0.88em; background: var(--code-bg); padding-left: 12px; }
+.editor .cm-line.cm-lp-code-fence { color: var(--muted-foreground); }
+.editor .cm-line.cm-lp-quote { border-left: 3px solid var(--primary); padding-left: 14px; color: var(--muted-foreground); }
+.editor .cm-lp-bullet { color: var(--muted-foreground); display: inline-block; width: 0.8em; }
+.editor .cm-lp-task { margin: 0 6px 0 0; vertical-align: middle; cursor: pointer; accent-color: var(--primary); }
+.editor .cm-lp-task-done { color: var(--muted-foreground); text-decoration: line-through; }
+.editor .cm-lp-hr { display: inline-block; width: 100%; border-top: 1px solid var(--border); vertical-align: middle; }
+.editor .cm-line.cm-lp-fm-line { font-family: var(--font-code); font-size: 0.85em; color: var(--muted-foreground); }
+.editor .cm-line.cm-lp-table-raw { font-family: var(--font-code); font-size: 0.88em; }
+.editor .cm-lp-properties { background: var(--muted); border: 1px solid var(--border); border-radius: var(--radius); padding: 8px 12px; margin: 4px 0 14px; font-size: 13px; cursor: text; }
+.editor .cm-lp-prop { display: grid; grid-template-columns: 110px 1fr; gap: 8px; padding: 2px 0; }
+.editor .cm-lp-prop-key { color: var(--muted-foreground); }
+.editor .cm-lp-prop-val { word-break: break-word; }
+.editor .cm-lp-table { border-collapse: collapse; margin: 8px 0; cursor: text; }
+.editor .cm-lp-table th, .editor .cm-lp-table td { border: 1px solid var(--border); padding: 4px 10px; }
+.editor .cm-lp-table th { background: var(--muted); }
+.editor .cm-lp-table code { font-family: var(--font-code); background: var(--code-bg); border-radius: 4px; padding: 0 3px; }
+
+/* Selector de color invisible encima de la muestra de la leyenda del grafo. */
+.legend-color { position: absolute; left: 0; top: 50%; width: 12px; height: 12px; transform: translateY(-50%); opacity: 0; cursor: pointer; padding: 0; border: none; }

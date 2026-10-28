@@ -1,0 +1,8 @@
+node_modules
+out
+dist
+.DS_Store
+*.log
+
+# Business notes stay local, never in the public repo
+unicorn-brain/Business/
